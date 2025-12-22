@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/azoth-os/.github/14f8a1e5e0a6cfb7e6de373d908998abdd43908e/icons/azoth-icon.png" alt="Azoth Logo" width="175" />
   </picture>
 
-<h3>Azoth</h3>
+<h3 align="center">Azoth Opeating System</h3>
 
 <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="30">
 <a href="https://rust-lang.org" />
@@ -16,6 +16,7 @@
 ---
 
 ### Azoth Organization
+
 
 
 

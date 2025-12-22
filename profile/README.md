@@ -7,12 +7,14 @@
 <a href="https://rust-lang.org" />
 </img>
 <img src="https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" height="30"/>
-<a href="https://webassembly.org/news/2025-09-17-wasm-3.0">
+<a href="https://webassembly.org/news/2025-09-17-wasm-3.0"/>
 </img>
 </div>
+  
 ---
 
 ### Azoth Organization
+
 
 
 

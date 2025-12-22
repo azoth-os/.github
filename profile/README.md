@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <sub>© 2025 Azoth Organization. Licensed under [LICENSE]. </sub>
+  <sub>© 2025 Azoth Organization. [LICENSE].
 </div>
 
 

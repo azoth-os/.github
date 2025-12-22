@@ -16,8 +16,10 @@
 
 <p>
 <strong>
+ 
   Explore the [core] »
 </strong>
 </p>
 
 [core]:https://github.com/azoth-os/azoth
+

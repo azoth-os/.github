@@ -1,14 +1,13 @@
 <div align="center">
   <picture>
-    <img src="https://github.com/azoth-os/.github/blob/14f8a1e5e0a6cfb7e6de373d908998abdd43908e/icons/azoth-icon.png" alt="Azoth Logo Alt" />
+    <img src="https://raw.githubusercontent.com/azoth-os/.github/14f8a1e5e0a6cfb7e6de373d908998abdd43908e/icons/azoth-icon.png" alt="Azoth Logo" width="150" />
   </picture>
+
+  <p>
+    <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Userland-WebAssembly-654FF0?style=flat-square&logo=webassembly" alt="Wasm">
+  </p>
 </div>
 
 ---
-
-<div>
-  <!--- BADGE WASM/RUST --->
-</div>
-
-
-

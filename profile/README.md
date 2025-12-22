@@ -4,7 +4,11 @@
   </picture>
 </div>
 
+---
 
+<div>
+  <!--- BADGE WASM/RUST --->
+</div>
 
 
 

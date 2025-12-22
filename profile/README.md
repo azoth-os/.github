@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
  © 2025 Azoth Organization, see [Licenses] .
 </div>

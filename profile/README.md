@@ -6,15 +6,5 @@
 <h4 align="center">Azoth Opeating System</h4>
 
 ---
-<img src="https://img.shields.io/badge/License-orange?style=flat-square&logo=license&logoColor=white" alt="License" height="40">
-<a href="" />
-</img>
-  
-<img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="40">
-<a href="https://rust-lang.org" />
-</img>
-<img src="https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" height="40"/>
-<a href="https://webassembly.org/news/2025-09-17-wasm-3.0"/>
-</img>
-</div>
 
+[License]:https//github.com/azoth-os/.github/license.txt

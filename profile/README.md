@@ -6,11 +6,13 @@
 <h2><italic>
   <bold>Azoth Organisation</bold>
 </italic></h2>
+
 ---
 
 See also [License]
 
 [License]:https//github.com/azoth-os/azoth/licenses/license.txt
+
 
 
 

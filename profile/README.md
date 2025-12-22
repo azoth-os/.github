@@ -6,4 +6,4 @@
 </div>
 
 
-[Licenses]:https://github.com/azoth-os/azoth/licenses/license
+[Licenses]: https://github.com/azoth-os/azoth/blob/main/licenses%2Flicense

@@ -1,9 +1,10 @@
+<div align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">
   &nbsp;
   <img src="https://img.shields.io/badge/Language-WebAssembly-654FF0?style=flat-square&logo=webassembly" alt="Wasm">
 </p>
-
+</div>
   <h1>Azoth Organization</h1>
   <p>
     <strong>Redefining the boundaries between Speed, Security, and Privacy.</strong>

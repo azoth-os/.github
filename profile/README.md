@@ -1,5 +1,5 @@
 <div align="center">
-<img arc="" alt= Azoth Logo" width="50%">
+<img arc=" " alt= Azoth Logo" width="50%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">

@@ -49,7 +49,6 @@ We don't just build an OS; we build the tools to craft it.
 <div align="left">
   <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">
   <img src="https://img.shields.io/badge/Userland-WebAssembly-654FF0?style=flat-square&logo=webassembly" alt="Wasm">
-  <img src="https://img.shields.io/badge/Drivers-Zig-orange?style=flat-square&logo=zig" alt="Zig">
   <img src="https://img.shields.io/badge/Architecture-x86__64-lightgrey?style=flat-square&logo=intel" alt="x86">
   <img src="https://img.shields.io/badge/Architecture-ARM64-lightgrey?style=flat-square&logo=arm" alt="Arm">
 </div>

@@ -4,10 +4,11 @@
   </picture>
 
   <p>
-    <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="20">
-    &nbsp;
+    <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="20"/>
+  
     <img src="https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" height="20">
   </p>
 </div>
 
 ---
+

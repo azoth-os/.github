@@ -1,5 +1,3 @@
 <div align="center">
- © 2025 Azoth Organization, see [License][LCS] .
+  <sub>© 2025 Azoth Organization, see <a href="https://github.com/azoth-os/azoth/blob/main/licenses/license">License</a>.</sub>
 </div>
-
-[LCS]: https://github.com/azoth-os/azoth/blob/main/licenses/license

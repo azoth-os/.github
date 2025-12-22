@@ -3,4 +3,4 @@
 </div>
 
 
-[LCS]:https://github.com/azoth-os/azoth/blob/main/licenses/license
+[LCS](https://github.com/azoth-os/azoth/blob/main/licenses/license)

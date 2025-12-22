@@ -1,7 +1,7 @@
 <div align="center">
   <img
 src="https://github.com/azoth-os/azoth/blob/main/.github%2Ficons%2Fazoth-icon.png" alt="Azoth Logo Alt" width="50%">
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">
   &nbsp;
@@ -21,8 +21,7 @@ src="https://github.com/azoth-os/azoth/blob/main/.github%2Ficons%2Fazoth-icon.pn
       <img src="https://img.shields.io/badge/Join_Community-Discord-5865F2?style=for-the-badge&logo=discord" alt="Discord">
     </a>
   </p>
-</div>
-
+  
 ---
 
 ### 🚀 Our Mission

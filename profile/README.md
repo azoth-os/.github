@@ -3,8 +3,7 @@
 ---
 
 <div align="center">
-<a href="azoth-os/.github/icons/azoth-v2-old.jpg"
-<picture>
+<a href=https://github.com/azoth-os/.github/blob/main/icons%2Fazoth-v2-old.jpg>
 <img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-icons-old.jpg" alt=Azoth icons"/>
 </picture>
 </a>

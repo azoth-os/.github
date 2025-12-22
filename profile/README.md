@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/azoth-os/azoth/blob/ddd7e6a52bce21102b0b25a3c05fbdf3431df1fc/.github/icons/azoth-icon.png" width="200" alt="Azoth Logo" />
   <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">
+  <img src="https://img.shields.io/badge/Language-Webassembly-orange?style=flat-square&logo=webassembly" alt="WebAssembly">
   
   <h1>Azoth Organization</h1>
   <p>
@@ -56,7 +57,7 @@ We don't just build an OS; we build the tools to craft it.
 We are looking for contributors interested in:
 - **Kernel Dev:** Memory paging, scheduling, and bare-metal Rust.
 - **Wasm Runtime:** optimizing JIT/AOT compilers for the kernel.
-- **Drivers:** Writing drivers in Zig or Rust.
+- **Drivers:** Writing drivers in Rust.
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
 

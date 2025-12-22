@@ -8,12 +8,3 @@
 </i></h3>
 
 ---
-
-See also [License]
-
-[License]:https//github.com/azoth-os/azoth/licenses/license.txt
-
-
-
-
-

@@ -2,8 +2,8 @@
 
 
 <div align="center">
- © 2025 Azoth Organization.[LICENSES] .
+ © 2025 Azoth Organization.[Licenses] .
 </div>
 
 
-[LICENSES]:https://github.com/azoth-os/azoth/licenses/license
+[Licenses]:https://github.com/azoth-os/azoth/licenses/license

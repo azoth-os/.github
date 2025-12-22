@@ -1,5 +1,6 @@
 <div align="center">
-<img arc="https://github.com/azoth-os/azoth/blob/main/.github%2Ficons%2Fazoth-icon.png" alt=" Azoth Logo" width="50%">
+  <img
+src="https://github.com/azoth-os/azoth/blob/main/.github%2Ficons%2Fazoth-icon.png" alt="Azoth Logo Alt" width="50%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" alt="Rust">

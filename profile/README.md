@@ -3,9 +3,9 @@
 ---
 
 <div align="center">
-<a href="https://github.com/azoth-os/.github/blob/main/iconsazoth-v2-old.jpg">
-<img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-icons-old.jpg" alt=Azoth icons"
-
+<a href="https://github.com/azoth-os/.github/blob/main/icons/azoth-v2-old.jpg">
+<img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-icons-old.jpg" alt="Azoth icons"
+</div>
 ----
 
 <div align="center">

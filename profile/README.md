@@ -6,4 +6,4 @@
 </div>
 
 
-[LICENSE]: https://github.com/azoth-os/azoth/licenses/license
+[LICENSE]:<https://github.com/azoth-os/azoth/licenses/license>

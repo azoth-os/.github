@@ -15,9 +15,9 @@
 ---
 
 <p>
-  <a href="https://github.com/azoth-os/azoth">
 <strong>
-  Explore the Core »
+  Explore the [core] »
 </strong>
-  </a>
 </p>
+
+[core]:https://github.com/azoth-os/azoth

@@ -1,9 +1,4 @@
-[rust]
-
-
-[rust]: https//github.com/azoth-os/azote
-
-
+# Table of contents
 
 ---
 

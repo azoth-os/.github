@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/azoth-os/azoth/main/docs/logo_azoth.png" width="200" alt="Azoth Logo" />
+  <img src="https://github.com/azoth-os/azoth/blob/ddd7e6a52bce21102b0b25a3c05fbdf3431df1fc/.github/icons/azoth-icon.png" width="200" alt="Azoth Logo" />
   <h1>Azoth Organization</h1>
   <p>
     <strong>Redefining the boundaries between Speed, Security, and Privacy.</strong>

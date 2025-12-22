@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://github.com/azoth-os/athanor">
 <picture>
-<img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-logo.png" alt=athanor wallpaper"/>
+<img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-icons.png" alt=Azoth icons"/>
 </picture>
 </a>
 </div>

@@ -6,8 +6,7 @@
 <h3>
   <i>
     <b>
-      Azoth
-      Organisation
+      Azoth Organisation
     </b>
   </i>
 </h3>
@@ -17,10 +16,11 @@
 <p>
 <strong>
  
-  Explore the [core »] 
+Explore the core [»][1].
 </strong>
 </p>
 
-[core »]:https://github.com/azoth-os/azoth
+[1]:https://github.com/azoth-os/azoth
+
 
 

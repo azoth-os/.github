@@ -17,9 +17,10 @@
 <p>
 <strong>
  
-  Explore the [core] »
+  Explore the [core »] 
 </strong>
 </p>
 
-[core]:https://github.com/azoth-os/azoth
+[core »]:https://github.com/azoth-os/azoth
+
 

@@ -1,11 +1,17 @@
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/azoth-os/.github/14f8a1e5e0a6cfb7e6de373d908998abdd43908e/icons/azoth-icon.png" alt="Azoth Logo" width="150" />
+    <img src="https://raw.githubusercontent.com/azoth-os/.github/14f8a1e5e0a6cfb7e6de373d908998abdd43908e/icons/azoth-icon.png" alt="Azoth Logo" width="200" />
   </picture>
   
 ---
-
-<img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="10"> &nbsp; <img src="https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" height="10">
+<div>
+  <a href="https://rust-lang.org/"> 
+  <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="10">
+  </a>
+  
+</div>
+ &nbsp; <img src="https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" height="10">
   </p>
 </div>
+
 

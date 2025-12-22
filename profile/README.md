@@ -1,6 +1,6 @@
 <div align="center">
- © 2025 Azoth Organization, see [Licenses] .
+ © 2025 Azoth Organization, see [LCS] .
 </div>
 
 
-[Licenses]:https://github.com/azoth-os/azoth/blob/main/licenses/license
+[LCS]:https://github.com/azoth-os/azoth/blob/main/licenses/license

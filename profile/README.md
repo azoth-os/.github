@@ -1,4 +1,5 @@
 <div align="center">
+
 <a href="https://github.com/azoth-os/azoth">
 <picture>
 <img href="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/v3.jpg" alt="Azoth Link Alt"/>

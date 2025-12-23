@@ -4,9 +4,6 @@
 
 <img src="https://img.shields.io/badge/Language-Rust-white?logo=rust" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" />
 
-<img
-src="https://img.shields.io/badge/Language-Webassambly?splat-design" />
-
 
 <div align="center">
 <a href="https://github.com/azoth-os/azoth">

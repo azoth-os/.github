@@ -26,4 +26,4 @@
 
 ## License
 
-See also [1]()
+See also [1](https:gitHub.com/azoth-os/.GitHub/LICENSE-MIT)

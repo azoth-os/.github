@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Language-Rust-white" />
+<img src="https://img.shields.io/badge/Language-Rust-white?logo=rust" />
 
 
 <div align="center">

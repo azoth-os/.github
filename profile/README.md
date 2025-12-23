@@ -1,8 +1,6 @@
-<div align="center">
-<h1>⚗️ Ordo Azoth</h1>
-</div>
+# ⚗️ _Ordo Azoth_
 
-<h3>📜 License</h3>
+### 📜 License
 
 ---
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 <div align="center">
-<a href="https://github.com/azoth-os/athanor">
+<a href="https://github.com/azoth-os/azoth">
 <picture>
 <img src="https://github.com/azoth-os/.github/blob/main/icons/azoth-v3.jpg" alt=athanor wallpaper"/>
 </picture>

@@ -4,7 +4,7 @@
 
 <h3>📜 License</h3>
 <p>
-Distributed under the
+           Distributed under the
 </p>
 
 ---

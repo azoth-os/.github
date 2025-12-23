@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Language-Rust-white?logo=rust" alt="Language-Rust" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="WebAssembly" />
+<img src="https://img.shields.io/badge/Language-Rust-white?style=for-the-badge&logo=rust" alt="Language-Rust" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="WebAssembly" />
 
 
 

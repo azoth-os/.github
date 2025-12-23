@@ -3,9 +3,6 @@
 </div>
 
 <h3>📜 License</h3>
-<p>
-           Distributed under the
-</p>
 
 ---
 

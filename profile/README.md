@@ -2,7 +2,6 @@
 
 ---
 
-
 <div align="center">
 <a href="https://github.com/azoth-os/azoth">
 <picture>
@@ -10,9 +9,6 @@
 </picture>
 </a>
 </div>
-
------
-
 
 <div align="center">
 <a href="https://github.com/azoth-os/athanor">

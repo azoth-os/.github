@@ -1,7 +1,10 @@
 <div align="center">
-<a href="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/v3.jpg">
-<a href="https://github.com/azoth-os/azoth">
 <picture>
+<img href="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/v3.jpg" alt="Azoth Link Alt"/>
+</picture>
+
+
+
 <img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-v3.jpg" alt="Azoth icons"/>
 </picture>
 </a>

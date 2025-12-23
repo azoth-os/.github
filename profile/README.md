@@ -1,7 +1,5 @@
 #  📜 Table of contents.
 
----
-
 <img src="https://img.shields.io/badge/Language-Rust-white?style=for-the-badge&logo=rust" alt="Language-Rust" /> <t> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="WebAssembly" />
 
 

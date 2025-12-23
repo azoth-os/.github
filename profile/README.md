@@ -2,6 +2,9 @@
 
 ---
 
+<img src="https://img.shields.io/badge/any_text-you_like-blue" />
+
+
 <div align="center">
 <a href="https://github.com/azoth-os/azoth">
 <picture>
@@ -9,6 +12,8 @@
 </picture>
 </a>
 </div>
+
+
 
 <div align="center">
 <a href="https://github.com/azoth-os/athanor">

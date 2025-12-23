@@ -1,16 +1,13 @@
 <div align="center">
+<a href="https://github.com/azoth-os/athanor">
 <picture>
-<img href="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-v3.jpg"
-alt="Azoth link alt">
-
-<a href="https://github.com/azoth-os/azoth"/>
-
-</img>
+<img src="https://raw.githubusercontent.com/azoth-os/.github/refs/heads/main/icons/azoth-V3.jpg" alt=athanor wallpaper"/>
 </picture>
 </a>
 </div>
 
 ----
+
 
 <div align="center">
 <a href="https://github.com/azoth-os/athanor">

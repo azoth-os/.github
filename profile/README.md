@@ -1,5 +1,8 @@
 # Table of contents
 
+---
+
+
 <div align="center">
 <a href="https://github.com/azoth-os/azoth">
 <picture>

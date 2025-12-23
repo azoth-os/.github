@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Language-Rust-white?logo=rust" />
 
 <img
-src="https://img.shields.io/badge/Language-Webassambly" />
+src="https://img.shields.io/badge/Language-Webassambly?splat-design" />
 
 
 <div align="center">

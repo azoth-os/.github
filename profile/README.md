@@ -15,6 +15,7 @@
   <br /><br />
 
   ## License
-  Distributed under the <a href="https://github.com/azoth-os/.github/blob/main/LICENSE-MIT">MIT License</a>.
-
+  <a href="https://github.com/azoth-os/.github/blob/main/LICENSE-MIT">
+    <img src="https://img.shields.io/badge/License-MIT-ffd700.svg?style=for-the-badge" alt="License: MIT">
+  </a>
 </div>
